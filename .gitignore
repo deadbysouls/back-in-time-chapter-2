@@ -1,0 +1,13 @@
+# .gitignore
+
+# Unity
+[Ll]
+[Tt]emp/
+[Bb]uild/
+[Ll]ibrary/
+obj/
+
+# Node / web dev
+node_modules/
+.DS_Store
+
